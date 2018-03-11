@@ -2,15 +2,144 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/POO/Lab7_Vehiculo/src/Main.java" timestamp="1520231345714">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="78" />
+        <mark key="." line="128" column="78" />
+        <mark key="^" line="128" column="78" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1520261220361">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/POO/Lab72_Orquesta/src/Main.java" timestamp="1520268369513">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/POO/Lab72_Orquesta/src/Violin.java" timestamp="1520266328891">
+        <mark key="[" line="39" column="13" />
+        <mark key="]" line="39" column="13" />
+        <mark key="^" line="39" column="13" />
+        <mark key="." line="39" column="13" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/POO/Lab7_Vehiculo/src/Compacto.java" timestamp="1520227868805">
+        <mark key="[" line="32" column="1" />
+        <mark key="]" line="36" column="17" />
+        <mark key="^" line="36" column="17" />
+        <mark key="." line="36" column="17" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/POO/Lab72_Orquesta/src/Instrumento.java" timestamp="1520268509886">
+        <mark key="[" line="51" column="37" />
+        <mark key="]" line="51" column="62" />
+        <mark key="." line="51" column="62" />
+        <mark key="^" line="51" column="62" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/POO/Lab7_Vehiculo/src/Agencia.java" timestamp="1520231594338">
+        <mark key="'" line="1" column="17" />
+        <mark key="[" line="71" column="42" />
+        <mark key="]" line="71" column="90" />
+        <mark key="^" line="71" column="90" />
+        <mark key="." line="71" column="90" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/POO/Lab7_Vehiculo/src/Pickup.java" timestamp="1520228155058">
+        <mark key="[" line="60" column="5" />
+        <mark key="]" line="67" column="30" />
+        <mark key="^" line="67" column="30" />
+        <mark key="." line="67" column="30" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/POO/Lab7_Vehiculo/src/Vehiculo.java" timestamp="1520230591370">
+        <mark key="[" line="79" column="5" />
+        <mark key="]" line="91" column="45" />
+        <mark key="^" line="91" column="45" />
+        <mark key="." line="91" column="45" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/POO/Lab72_Orquesta/src/Saxofon.java" timestamp="1520267426976">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="42" column="13" />
+        <mark key="^" line="42" column="13" />
+        <mark key="." line="42" column="13" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/POO/Lab72_Orquesta/src/Orquesta.java" timestamp="1520268466798">
+        <mark key="[" line="62" column="1" />
+        <mark key="]" line="60" column="33" />
+        <mark key="." line="60" column="33" />
+        <mark key="^" line="60" column="33" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/POO/Lab7_Vehiculo/src/Familiar.java" timestamp="1520227897084">
+        <mark key="[" line="25" column="5" />
+        <mark key="]" line="28" column="17" />
+        <mark key="^" line="28" column="17" />
+        <mark key="." line="28" column="17" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="1" column="17" filename="$USER_HOME$/IdeaProjects/POO/Lab7_Vehiculo/src/Agencia.java" />
+      <jump line="2" column="3" filename="$USER_HOME$/IdeaProjects/POO/Lab72_Orquesta/src/Main.java" />
+      <jump line="13" column="50" filename="$USER_HOME$/IdeaProjects/POO/Lab72_Orquesta/src/Orquesta.java" />
+      <jump line="60" column="58" filename="$USER_HOME$/IdeaProjects/POO/Lab72_Orquesta/src/Orquesta.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBJdGVyYXRvcjxJbnN0cnVtZW50bz4gaW5zdHJ1bWVudG9JdGVyYXRvciA9IGluc3RydW1lbnRvLmxpc3RJdGVyYXRvcigpOwogICAgICAgIHdoaWxlKGluc3RydW1lbnRvSXRlcmF0b3IuaGFzTmV4dCgpKQogICAgICAgIHsKICAgICAgICAgICAgdG90YWwgKz0gaW5zdHJ1bWVudG9JdGVyYXRvci5uZXh0KCkuZ2V0Q29zdG8oKTsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>modelo = kb.nextLi</text>
+      </register>
+      <register name="0" type="4">
+        <text>============</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBJdGVyYXRvcjxJbnN0cnVtZW50bz4gaW5zdHJ1bWVudG9JdGVyYXRvciA9IGluc3RydW1lbnRvLmxpc3RJdGVyYXRvcigpOwogICAgICAgIHdoaWxlKGluc3RydW1lbnRvSXRlcmF0b3IuaGFzTmV4dCgpKQogICAgICAgIHsKICAgICAgICAgICAgdG90YWwgKz0gaW5zdHJ1bWVudG9JdGVyYXRvci5uZXh0KCkuZ2V0Q29zdG8oKTsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSW5zdHJ1bWVudG8gdG1wOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBvcnF1ZXN0YS5hZ3JlZ2FyKHZpb2xpbik7CiAgICAgICAgb3JxdWVzdGEuYWdyZWdhcihzYXhvZm9uKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ci5hcHBlbmQoIlx0Iik7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIFRJUE9TCiAgICAvLyAwIC0gQmFqbwogICAgLy8gMSAtIENvbnRyYWJham8KICAgIC8vIDIgLSBBbHRvCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGludCB0aXBvc1tdID0geyJiYWpvIiwgIiJ9Owo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICArICJcbj09PT09PT09PT09PT09PT09PT09PT09PT09PT09XG4iOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5zdHJ1bWVudG87Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpZihvYmogPT0gdGhpcykKICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>tabp</entry>
+        <entry>tabn</entry>
+        <entry>W</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="false" />
     </editor>
